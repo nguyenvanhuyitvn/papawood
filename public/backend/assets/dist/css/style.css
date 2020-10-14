@@ -1,0 +1,37 @@
+body{
+	font: 1em "Times New Roman", Serif;
+}
+#category .select2{
+    padding: .46875rem .75rem;
+}
+#img{
+    display: none;
+}
+#avatar
+{
+	cursor: pointer;
+}
+.ml_5{
+	margin-left: 15px;
+}
+.btn-green-blue{
+	border-radius: 0px;
+	background-color: #1DC3D2;
+	font-size: 1.1em;
+}
+.bg-title{
+	background-color: #ffffff;
+}
+.text-white{
+	color: #ffffff;
+}
+.btn-warning-custom{
+	border-radius: 0px;
+	background-color: #F5D33D;
+	font-size: 1.1em;
+}
+.btn-info-custom{
+	border-radius: 0px;
+	background-color: #3995CA;
+	font-size: 1.1em;
+}
